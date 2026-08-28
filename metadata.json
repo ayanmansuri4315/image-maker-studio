@@ -1,0 +1,6 @@
+{
+  "name": "Images Maker Studio",
+  "description": "Images Maker Studio is a luxury editorial photography studio in Sidhpur, Gujarat capturing timeless love stories, weddings, portraits, and moments that last a lifetime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
